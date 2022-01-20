@@ -1,0 +1,23 @@
+#header {
+    background-color: hotpink;
+    color: aquamarine;
+    padding: 10px;
+    top: 0;
+    position: absolute;
+    width: 100%;
+}
+#footer {
+    background-color: aquamarine;
+    color: hotpink;
+    padding: 5px;
+    bottom: 0;
+    position: absolute;
+    width: 100%;
+    font-size: 20px;
+}
+body {
+    background: linear-gradient(#A3E4DB,#FFA1C9);
+}
+h4 {
+    font-weight: bold;
+}
